@@ -1,4 +1,3 @@
-
 import {NavbarDemo} from "./src/components/Navbar";
 import {HeroScrollDemo} from "./src/components/Scroll";
 import {GlobeDemo} from "./src/components/globe";
@@ -12,7 +11,7 @@ export default function Home() {
      <NavbarDemo />
       <HeroScrollDemo />
       <GlobeDemo />
-      
+
       <WobbleCardDemo />
       <br />
       <br />
