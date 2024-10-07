@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { HoveredLink, Menu, MenuItem, ProductItem } from "@/app/src/components/ui/navbar-menu";
 import { cn } from "@/utils/cn";
 
+
 export function NavbarDemo() {
   return (
     <div className="relative w-full flex items-center justify-center">
