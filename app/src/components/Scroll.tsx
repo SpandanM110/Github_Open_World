@@ -10,14 +10,13 @@ export function HeroScrollDemo() {
       <ContainerScroll
         titleComponent={
           <>
-            <h1 className="text-2xl font-semibold text-black dark:text-white">
+            <h1 className="text-2xl font-semibold pt-56 text-black dark:text-white md:pt-0">
               Unleash the power of <br />
               <span className="text-2xl md:text-[6rem] font-bold mt-1 leading-none">
                 Open Source <br />
               </span>
               <br />
             </h1>
-            
           </>
         }
       >
@@ -26,12 +25,10 @@ export function HeroScrollDemo() {
           alt="hero"
           height={720}
           width={1400}
-          className="mx-auto rounded-2xl object-cover h-full object-left-top"
+          className="mx-auto rounded-2xl object-cover h-full object-center"
           draggable={false}
         />
       </ContainerScroll>
     </div>
   );
 }
-
-

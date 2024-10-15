@@ -1,14 +1,13 @@
-import {NavbarDemo} from "./src/components/Navbar";
-import {HeroScrollDemo} from "./src/components/Scroll";
-import {GlobeDemo} from "./src/components/globe";
-import {WobbleCardDemo} from "./src/components/card";
-import {BackgroundBeamsDemo} from "./src/components/waitlist";
-
+import { NavbarDemo } from "./src/components/Navbar";
+import { HeroScrollDemo } from "./src/components/Scroll";
+import { GlobeDemo } from "./src/components/globe";
+import { WobbleCardDemo } from "./src/components/card";
+import { BackgroundBeamsDemo } from "./src/components/waitlist";
 
 export default function Home() {
   return (
     <main>
-     <NavbarDemo />
+      <NavbarDemo />
       <HeroScrollDemo />
       <GlobeDemo />
 
@@ -19,12 +18,6 @@ export default function Home() {
       <br />
       <br />
       <BackgroundBeamsDemo />
-      
-
-     
-      
-      
     </main>
-    
   );
 }
