@@ -6,7 +6,7 @@
 
 ## Welcome to **Github_Open_World** for Hacktoberfest 2024! 🎉
 
-This platform is created to assist open-source developers in listing their repositories for Hacktoberfest contributions. 🌱 If you're a beginner or seasoned developer, this is a perfect place to participate and collaborate in the open-source community.
+This platform is created to assist open-source developers in listing their repositories for Hacktoberfest contributions. 🌱 If you're a beginner or seasoned developer, this is a perfect place to participate and collaborate in the open-source community more stuff will be added.
 
 ![opengraph](https://github.com/user-attachments/assets/50bdc4c9-1cd2-45cd-84b5-1ec362f8e903)
 
